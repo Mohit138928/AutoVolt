@@ -1,6 +1,6 @@
 # AutoVolt - AI-Powered Car Marketplace
 
-![AutoVolt](public/about-mission.jpg)
+![AutoVolt](public/about-mission.png)
 
 AutoVolt is a next-generation car marketplace that leverages AI technology to provide an intelligent, personalized car buying experience. Our platform combines advanced AI features with user-friendly interfaces to revolutionize how people search for and purchase vehicles.
 
