@@ -68,7 +68,7 @@ AutoVolt is a next-generation car marketplace that leverages AI technology to pr
 
 - **Frontend**: Next.js 14, React, Tailwind CSS
 - **Backend**: Node.js, Prisma ORM
-- **Database**: PostgreSQL
+- **Database**: Supabase
 - **AI/ML**: Google Gemini Pro
 - **Authentication**: Clerk
 - **Cloud**: Vercel
